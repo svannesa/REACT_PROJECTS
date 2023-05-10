@@ -1,0 +1,72 @@
+.wrapper {
+  padding-top: 30px;
+}
+  
+body h3 {
+  margin-bottom: 25px;
+}
+  
+.navbar-brand a {
+  color: #ffffff;
+}
+  
+.form-wrapper,
+.table-wrapper {
+  max-width: 500px;
+  margin: 0 auto;
+  align-items: center;
+}
+  
+.table-wrapper {
+  max-width: 700px;
+}
+  
+.edit-link {
+  padding: 7px 10px;
+  font-size: 0.875rem;
+  line-height: normal;
+  border-radius: 0.2rem;
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+  margin-right: 10px;
+  position: relative;
+  top: 1px;
+}
+  
+.edit-link:hover {
+  text-decoration: none;
+  color: #ffffff;
+}
+  
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+  align-items: center;
+}
+  
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+  color: red;
+}
+.button{
+  align-items: center ;
+}
+.form1{
+  align-items: center;
+}
+.form2{
+  align-items: center;
+}
